@@ -8,7 +8,7 @@
 <table width="100%" align="center" border="5">
     <tr>
         <td align="center" valign="middle">
-            <img src="logo.png" width="40%" alt="Simba">
+            <img src="media/photo/logo.png" width="40%" alt="Simba">
         </td>
     </tr>
 </table>
@@ -17,7 +17,7 @@
     <tr>
         <td></td>
         <td align="center">
-            <a href="Simba.html"><img align="center" src="simba.png" width="150"></a>
+            <a href="Simba.html"><img align="center" src="media/photo/simba.png" width="150"></a>
         </td>
         <td valign="top">
             <p><a style="font-size: 20px; color: brown " href="Simba.html"></a>Симба</p>
@@ -27,36 +27,39 @@
                 <li><a style="color: brown" href="Simba.html#video">Видео</a></li>
             </ul>
         </td>
-     </tr>
+    </tr>
+</table>
+<table align="center" width="60%" bgcolor="#f5f5dc">
     <tr>
         <td></td>
         <td align="center">
-            <p><a href="Mufasa.html"><img align="center" src="Муфаса.png" width="150"></a></p>
+            <p><a href="Mufasa.html"><img align="center" src="media/photo/Муфаса.png" width="150"></a></p>
         </td>
         <td valign="top">
-            <p><a style="front-size: 20px; color: brown"href="Mufasa.html"></a>Муфаса</p>
+            <p><a style="front-size: 20px; color: brown" href="Mufasa.html"></a>Муфаса</p>
             <ul style="color: brown">
                 <li><a style="color: brown" href="Mufasa.html#family">Семья</a></li>
                 <li><a style="color: brown" href="Mufasa.html#information">Характеристики</a></li>
                 <li><a style="color: brown" href="Mufasa.html#video">Видео</a></li>
             </ul>
         </td>
+
     </tr>
+</table>
+<table align="center" width="60%" bgcolor="#f5f5dc">
     <tr>
         <td align="center">
-            <p><a href="Sarabi.html"><img align="center" src="Сараби.png" width="150"></a></p>
+            <p><a href="Sarabi.html"><img align="center" src="media/photo/Сараби.png" width="150"></a></p>
         </td>
         <td valign="top">
-            <p><a style="front-size: 20px; color: brown" href="Sarabi.html">Сараби</a> </p>
+            <p><a style="front-size: 20px; color: brown" href="Sarabi.html">Сараби</a></p>
             <ul style="color: brown">
-                <li><a style="color: brown"href="Sarabi.html#family">Семья</a> </li>
-                <li><a style="color: brown" href="Sarabi.html#information">Характеристики</a> </li>
-                <Li><a style="color: brown" href="Sarabi.html#video">Видео</a> </Li>
+                <li><a style="color: brown" href="Sarabi.html#family">Семья</a></li>
+                <li><a style="color: brown" href="Sarabi.html#information">Характеристики</a></li>
+                <Li><a style="color: brown" href="Sarabi.html#video">Видео</a></Li>
             </ul>
         </td>
     </tr>
-
-
 </table>
 </body>
 </html>
